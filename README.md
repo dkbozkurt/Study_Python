@@ -1,2 +1,3 @@
 # Study_Python
-Python codes for studying.
+Introduction to Python programming.
+
